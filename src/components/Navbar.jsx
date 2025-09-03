@@ -77,13 +77,16 @@ const Navbar = () => {
         {toggle ? (
           <div className="flex justify-between ml-10">
             <ul>
-              <li className="text-white text-xl mb-2 cursor-pointer">Skills</li>
+              <a href="#skills">
+              <li className="text-white text-xl mb-2 cursor-pointer">Skills</li></a>
+              <a href="#projects">
               <li className="text-white text-xl mb-2 cursor-pointer">
                 Projects
-              </li>
+              </li></a>
+              <a href="#internships">
               <li className="text-white text-xl mb-2 cursor-pointer">
                 Internships/Cerificates
-              </li>
+              </li></a>
             </ul>
           </div>
         ) : (

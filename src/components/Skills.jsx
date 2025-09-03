@@ -9,7 +9,7 @@ const Skills = () => {
           <h1 className="text-3xl text-white mt-10">Skills</h1>
         </div>
         <div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
+          <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
             <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden hover:animate-pulse">
               <div className="p-6 flex flex-col items-center">
                 <i className="devicon-c-original colored text-8xl"></i>
@@ -47,7 +47,7 @@ const Skills = () => {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
+          <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
             <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden hover:animate-pulse">
               <div className="p-6 flex flex-col items-center">
                 <i className="devicon-tailwindcss-original colored text-8xl"></i>
@@ -85,7 +85,7 @@ const Skills = () => {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
+          <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
             <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden hover:animate-pulse">
               <div className="p-6 flex flex-col items-center">
                 <i className="devicon-java-plain colored text-8xl"></i>
@@ -123,7 +123,7 @@ const Skills = () => {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
+          <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4">
             <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden hover:animate-pulse">
               <div className="p-6 flex flex-col items-center">
                 <i className="devicon-nodejs-plain-wordmark text-8xl"></i>
