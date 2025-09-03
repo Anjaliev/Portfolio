@@ -17,7 +17,7 @@ const Education = () => {
                   Master of Computer Applications
                 </div>
                 <a href="#">
-                  St. Joseph's College of Engineering and Technology, Palai (2023-2025g)
+                  St. Joseph's College of Engineering and Technology, Palai (2023-2025)
                 </a>
                 <p className="mt-2 text-slate-500">
                   Completed MCA with a focus on software development,
